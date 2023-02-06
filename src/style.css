@@ -1,0 +1,60 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+@font-face {
+  font-family: "my-font";
+  src: url("./assets/Grotesque\ Bourgeoisie.ttf");
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  background-image: url("./img/forest.jpeg");
+  height: 16vh;
+  border-bottom: 2px solid darkgoldenrod;
+}
+
+.res-name {
+  font-family: "my-font";
+  display: flex;
+  position: relative;
+  font-size: 65px;
+  letter-spacing: 12px;
+  margin-right: 150px;
+  color: #9f750c;
+  text-shadow: 3px 5px 2px black;
+}
+.res-name::after {
+  content: " ";
+  background: url(./img/bear-as-cook-with-chef-hat-markus-schnabel-transparent.png);
+  width: 177px;
+  height: 158px;
+  background-size: 91%;
+  opacity: 0.95;
+  position: absolute;
+  right: -183px;
+  bottom: -2px;
+}
+
+.content {
+  height: 84vh;
+  display: grid;
+  grid-template-columns: 20vw 60vw 20vw;
+  background-color: #f5f5d0;
+}
+
+.side-decoration {
+  background-image: url(/src/img/tree.png);
+  background-position-x: center;
+  background-color: darkgoldenrod;
+}
+
+.side-1 {
+  border-top-right-radius: 16px;
+}
+
+.side-2 {
+  border-top-left-radius: 16px;
+}
