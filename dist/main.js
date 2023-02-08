@@ -16,7 +16,7 @@
   \*************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/Grotesque Bourgeoisie.ttf */ \"./src/assets/Grotesque Bourgeoisie.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ./img/forest.jpeg */ \"./src/img/forest.jpeg\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! ./img/bear-as-cook-with-chef-hat-markus-schnabel-transparent.png */ \"./src/img/bear-as-cook-with-chef-hat-markus-schnabel-transparent.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(/*! ../../../../src/img/tree.png */ \"./src/img/tree.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_2___);\nvar ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_3___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"* {\\n  margin: 0px;\\n  padding: 0px;\\n}\\n@font-face {\\n  font-family: \\\"my-font\\\";\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n}\\n\\nheader {\\n  display: flex;\\n  justify-content: center;\\n  align-items: flex-end;\\n  background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_1___ + \");\\n  height: 16vh;\\n  border-bottom: 2px solid darkgoldenrod;\\n}\\n\\n.res-name {\\n  font-family: \\\"my-font\\\";\\n  display: flex;\\n  position: relative;\\n  font-size: 65px;\\n  letter-spacing: 12px;\\n  margin-right: 150px;\\n  color: #9f750c;\\n  text-shadow: 3px 5px 2px black;\\n}\\n.res-name::after {\\n  content: \\\" \\\";\\n  background: url(\" + ___CSS_LOADER_URL_REPLACEMENT_2___ + \");\\n  width: 177px;\\n  height: 158px;\\n  background-size: 91%;\\n  opacity: 0.95;\\n  position: absolute;\\n  right: -183px;\\n  bottom: -2px;\\n}\\n\\n.content {\\n  height: 84vh;\\n  display: grid;\\n  grid-template-columns: 20vw 60vw 20vw;\\n  background-color: #f5f5d0;\\n}\\n\\n.side-decoration {\\n  background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_3___ + \");\\n  background-position-x: center;\\n  background-color: darkgoldenrod;\\n}\\n\\n.side-1 {\\n  border-top-right-radius: 16px;\\n}\\n\\n.side-2 {\\n  border-top-left-radius: 16px;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://project-restaurant-page/./src/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/Grotesque Bourgeoisie.ttf */ \"./src/assets/Grotesque Bourgeoisie.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ./img/forest.jpeg */ \"./src/img/forest.jpeg\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! ./img/bear-as-cook-with-chef-hat-markus-schnabel-transparent.png */ \"./src/img/bear-as-cook-with-chef-hat-markus-schnabel-transparent.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(/*! ../../../../src/img/tree.png */ \"./src/img/tree.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_4___ = new URL(/* asset import */ __webpack_require__(/*! ./img/bear-paw-print-illustration-png.webp */ \"./src/img/bear-paw-print-illustration-png.webp\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_2___);\nvar ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_3___);\nvar ___CSS_LOADER_URL_REPLACEMENT_4___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_4___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"* {\\n  margin: 0px;\\n  padding: 0px;\\n  box-sizing: border-box;\\n}\\n@font-face {\\n  font-family: \\\"my-font\\\";\\n  src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n}\\n\\nheader {\\n  display: flex;\\n  justify-content: center;\\n  align-items: flex-end;\\n  background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_1___ + \");\\n  height: 16vh;\\n  width: 100vw;\\n  border-bottom: 2px solid darkgoldenrod;\\n}\\n\\n.res-name {\\n  font-family: \\\"my-font\\\";\\n  display: flex;\\n  position: relative;\\n  font-size: 80px;\\n  letter-spacing: 12px;\\n  margin-right: 150px;\\n  color: #9f750c;\\n  text-shadow: 3px 5px 2px black;\\n}\\n.res-name::after {\\n  content: \\\" \\\";\\n  background: url(\" + ___CSS_LOADER_URL_REPLACEMENT_2___ + \");\\n  width: 177px;\\n  height: 158px;\\n  background-size: 91%;\\n  opacity: 0.95;\\n  position: absolute;\\n  right: -183px;\\n  bottom: -2px;\\n}\\n\\n.content {\\n  height: 84vh;\\n  display: grid;\\n  grid-template-columns: 22vw 56vw 22vw;\\n  background-color: #ffff85;\\n}\\n\\n.side-decoration {\\n  background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_3___ + \");\\n  background-position-x: center;\\n  background-color: darkgoldenrod;\\n}\\n\\n.side-1 {\\n  border-top-right-radius: 16px;\\n}\\n\\n.side-2 {\\n  border-top-left-radius: 16px;\\n}\\n\\n.buttons {\\n  display: flex;\\n  justify-content: center;\\n  gap: 30px;\\n  padding-top: 20px;\\n}\\n\\n.btn {\\n  font-family: sans-serif;\\n  font-weight: bold;\\n  font-size: 17px;\\n  width: 145px;\\n  height: 40px;\\n  border-radius: 20px;\\n  background-color: #9f750c;\\n  position: relative;\\n  border: 2px solid #ed8989;\\n}\\n.btn:hover {\\n  border: 3px solid darkred;\\n  color: white;\\n  font-size: 20px;\\n  cursor: pointer;\\n}\\n.btn:hover::after {\\n  content: \\\" \\\";\\n  background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_4___ + \");\\n  width: 69px;\\n  height: 74px;\\n  background-size: 100%;\\n  position: absolute;\\n  left: 30px;\\n  bottom: -19px;\\n  opacity: 62%;\\n  transform: rotate(14deg);\\n}\\n\\n.module {\\n  height: 86%;\\n  padding-top: 46px;\\n  display: flex;\\n  justify-content: center;\\n}\\n.info {\\n  width: 75%;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n  height: 103%;\\n  padding-top: 40px;\\n  background-color: #04040466;\\n  text-align: center;\\n  font-family: sans-serif;\\n  border-radius: 30px;\\n  position: relative;\\n}\\n.info > p::after {\\n  content: \\\" \\\";\\n  background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_4___ + \");\\n  width: 161px;\\n  height: 338px;\\n  background-size: 100%;\\n  position: absolute;\\n  left: 350px;\\n  bottom: -20px;\\n  transform: rotate(-70deg);\\n}\\n\\n.info > h2 {\\n  margin-bottom: 25px;\\n  font-size: 28px;\\n}\\n\\n.info > p {\\n  margin-bottom: 25px;\\n  font-size: 18px;\\n  line-height: 30px;\\n  background-color: #060808b8;\\n  color: #a35612fa;\\n  border-radius: 20px;\\n  width: 60%;\\n  padding: 10px;\\n  font-weight: bold;\\n}\\n\\n.contact {\\n  width: 43%;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n  justify-content: space-evenly;\\n  height: 103%;\\n  padding-top: 40px;\\n  background-color: #04040466;\\n  font-family: sans-serif;\\n  border-radius: 30px;\\n}\\n.contact > div {\\n  width: 100%;\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: center;\\n  align-items: center;\\n}\\n\\n.contact > div > h3 {\\n  margin-bottom: 10px;\\n  font-size: 23px;\\n}\\n.contact > div > p {\\n  background-color: #060808b8;\\n  width: 50%;\\n  text-align: center;\\n  font-size: 17px;\\n  color: #a35612fa;\\n  border-radius: 20px;\\n  padding: 10px;\\n}\\n.contact > div > p:hover {\\n  color: red;\\n}\\n\\n.menu {\\n  display: flex;\\n  flex-wrap: wrap;\\n  justify-content: space-around;\\n  width: 90%;\\n  height: 100%;\\n  background-color: #04040466;\\n  font-family: sans-serif;\\n  border-radius: 30px;\\n}\\n.menu-card {\\n  display: flex;\\n  align-items: center;\\n  gap: 30px;\\n  width: 40%;\\n  height: 50%;\\n}\\n\\n.menu-img {\\n  width: 35%;\\n  height: 45%;\\n  border-radius: 20px;\\n}\\n.price {\\n  background-color: #060808b8;\\n  color: #a35612fa;\\n  width: 50%;\\n  border-radius: 20px;\\n  padding: 10px;\\n  text-align: center;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://project-restaurant-page/./src/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -120,13 +120,43 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 
 /***/ }),
 
+/***/ "./src/contact.js":
+/*!************************!*\
+  !*** ./src/contact.js ***!
+  \************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"appendContact\": () => (/* binding */ appendContact)\n/* harmony export */ });\nfunction appendContact() {\n  const cont = document.createElement(\"div\");\n  cont.innerHTML =\n    \"<div><h3>Name: </h3><p>Joe Living</p></div><div><h3>Address: </h3><p>Green Forest 56 - Canada</p></div><div><h3>Phone: </h3><p>0525454511343353</p></div><div><h3>E-mail: </h3><p>bearChef@gmail.com</p></div>\";\n  cont.classList.add(\"contact\");\n  return cont;\n}\n\n\n\n//# sourceURL=webpack://project-restaurant-page/./src/contact.js?");
+
+/***/ }),
+
 /***/ "./src/index.js":
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n\n\n\n//# sourceURL=webpack://project-restaurant-page/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _info_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./info.js */ \"./src/info.js\");\n/* harmony import */ var _contact_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./contact.js */ \"./src/contact.js\");\n/* harmony import */ var _menu_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./menu.js */ \"./src/menu.js\");\n\n\n\n\n\nconst infoBtn = document.querySelector(\".info-btn\");\nconst menuBtn = document.querySelector(\".menu-btn\");\nconst contactBtn = document.querySelector(\".contact-btn\");\n\ninfoBtn.addEventListener(\"click\", () => {\n  modul.innerHTML = \" \";\n  modul.appendChild((0,_info_js__WEBPACK_IMPORTED_MODULE_1__.appendInfo)());\n});\n\nmenuBtn.addEventListener(\"click\", () => {\n  modul.innerHTML = \" \";\n  modul.appendChild((0,_menu_js__WEBPACK_IMPORTED_MODULE_3__.appendMenu)());\n});\n\ncontactBtn.addEventListener(\"click\", () => {\n  modul.innerHTML = \" \";\n  modul.appendChild((0,_contact_js__WEBPACK_IMPORTED_MODULE_2__.appendContact)());\n});\n\nconst modul = document.querySelector(\".module\");\nmodul.appendChild((0,_info_js__WEBPACK_IMPORTED_MODULE_1__.appendInfo)());\n\n\n//# sourceURL=webpack://project-restaurant-page/./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/info.js":
+/*!*********************!*\
+  !*** ./src/info.js ***!
+  \*********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"appendInfo\": () => (/* binding */ appendInfo)\n/* harmony export */ });\nfunction appendInfo() {\n  const info = document.createElement(\"div\");\n  info.innerHTML =\n    \"<h2>Eat at Joes..<br>is a little mountain restaurant.</h2><p>It's on the edge of the coniferous forest.<br> With a lot of fresh breaz,delicious meals and healthi drinks.<br>The best place for you'r family and you to get a taste of nature..</p><h2>Come and enjoy with us! </h2> \";\n  info.classList.add(\"info\");\n  return info;\n}\n\n\n\n//# sourceURL=webpack://project-restaurant-page/./src/info.js?");
+
+/***/ }),
+
+/***/ "./src/menu.js":
+/*!*********************!*\
+  !*** ./src/menu.js ***!
+  \*********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"appendMenu\": () => (/* binding */ appendMenu)\n/* harmony export */ });\n/* harmony import */ var _img_soup_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./img/soup.jpg */ \"./src/img/soup.jpg\");\n/* harmony import */ var _img_barbecue_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./img/barbecue.jpg */ \"./src/img/barbecue.jpg\");\n/* harmony import */ var _img_pancake_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./img/pancake.jpg */ \"./src/img/pancake.jpg\");\n/* harmony import */ var _img_lemonade_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./img/lemonade.jpg */ \"./src/img/lemonade.jpg\");\n\n\n\n\n\nfunction appendMenu() {\n  const menu = document.createElement(\"div\");\n  menu.classList.add(\"menu\");\n  const div1 = document.createElement(\"div\");\n  div1.classList.add(\"menu-card\");\n  const img1 = document.createElement(\"img\");\n  img1.classList.add(\"menu-img\");\n  img1.src = _img_soup_jpg__WEBPACK_IMPORTED_MODULE_0__;\n  const price1 = document.createElement(\"div\");\n  price1.classList.add(\"price\");\n  price1.innerHTML = \"<h2>Homemade Soup:</h2><h1>2.35$</h1>\";\n  div1.appendChild(img1);\n  div1.appendChild(price1);\n  menu.appendChild(div1);\n\n  const div2 = document.createElement(\"div\");\n  div2.classList.add(\"menu-card\");\n  const img2 = document.createElement(\"img\");\n  img2.classList.add(\"menu-img\");\n  img2.src = _img_barbecue_jpg__WEBPACK_IMPORTED_MODULE_1__;\n  const price2 = document.createElement(\"div\");\n  price2.classList.add(\"price\");\n  price2.innerHTML = \"<h2>Barbecue 1kg:</h2><h1>8.99$</h1>\";\n  div2.appendChild(img2);\n  div2.appendChild(price2);\n  menu.appendChild(div2);\n\n  const div3 = document.createElement(\"div\");\n  div3.classList.add(\"menu-card\");\n  const img3 = document.createElement(\"img\");\n  img3.classList.add(\"menu-img\");\n  img3.src = _img_pancake_jpg__WEBPACK_IMPORTED_MODULE_2__;\n  const price3 = document.createElement(\"div\");\n  price3.classList.add(\"price\");\n  price3.innerHTML = \"<h2>Pancake with Maple Syrup:</h2><h1>3.50$</h1>\";\n  div3.appendChild(img3);\n  div3.appendChild(price3);\n  menu.appendChild(div3);\n\n  const div4 = document.createElement(\"div\");\n  div4.classList.add(\"menu-card\");\n  const img4 = document.createElement(\"img\");\n  img4.classList.add(\"menu-img\");\n  img4.src = _img_lemonade_jpg__WEBPACK_IMPORTED_MODULE_3__;\n  const price4 = document.createElement(\"div\");\n  price4.classList.add(\"price\");\n  price4.innerHTML = \"<h2>Fresh Lemon Juice:</h2><h1>1.45$</h1>\";\n  div4.appendChild(img4);\n  div4.appendChild(price4);\n  menu.appendChild(div4);\n\n  return menu;\n}\n\n\n\n\n//# sourceURL=webpack://project-restaurant-page/./src/menu.js?");
 
 /***/ }),
 
@@ -140,6 +170,16 @@ eval("module.exports = __webpack_require__.p + \"de350a14cff1eca9220f.ttf\";\n\n
 
 /***/ }),
 
+/***/ "./src/img/barbecue.jpg":
+/*!******************************!*\
+  !*** ./src/img/barbecue.jpg ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"a1112422896bfc20c975.jpg\";\n\n//# sourceURL=webpack://project-restaurant-page/./src/img/barbecue.jpg?");
+
+/***/ }),
+
 /***/ "./src/img/bear-as-cook-with-chef-hat-markus-schnabel-transparent.png":
 /*!****************************************************************************!*\
   !*** ./src/img/bear-as-cook-with-chef-hat-markus-schnabel-transparent.png ***!
@@ -150,6 +190,16 @@ eval("module.exports = __webpack_require__.p + \"32989db002a3c52ed58a.png\";\n\n
 
 /***/ }),
 
+/***/ "./src/img/bear-paw-print-illustration-png.webp":
+/*!******************************************************!*\
+  !*** ./src/img/bear-paw-print-illustration-png.webp ***!
+  \******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"4d38893d2b6b9699b050.webp\";\n\n//# sourceURL=webpack://project-restaurant-page/./src/img/bear-paw-print-illustration-png.webp?");
+
+/***/ }),
+
 /***/ "./src/img/forest.jpeg":
 /*!*****************************!*\
   !*** ./src/img/forest.jpeg ***!
@@ -157,6 +207,36 @@ eval("module.exports = __webpack_require__.p + \"32989db002a3c52ed58a.png\";\n\n
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"c94bbbb6bfe589199d00.jpeg\";\n\n//# sourceURL=webpack://project-restaurant-page/./src/img/forest.jpeg?");
+
+/***/ }),
+
+/***/ "./src/img/lemonade.jpg":
+/*!******************************!*\
+  !*** ./src/img/lemonade.jpg ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"1b9be5d70c62d78f9c9a.jpg\";\n\n//# sourceURL=webpack://project-restaurant-page/./src/img/lemonade.jpg?");
+
+/***/ }),
+
+/***/ "./src/img/pancake.jpg":
+/*!*****************************!*\
+  !*** ./src/img/pancake.jpg ***!
+  \*****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"27827734aa1b4be86712.jpg\";\n\n//# sourceURL=webpack://project-restaurant-page/./src/img/pancake.jpg?");
+
+/***/ }),
+
+/***/ "./src/img/soup.jpg":
+/*!**************************!*\
+  !*** ./src/img/soup.jpg ***!
+  \**************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"b63ce65266de8cb715b3.jpg\";\n\n//# sourceURL=webpack://project-restaurant-page/./src/img/soup.jpg?");
 
 /***/ }),
 
